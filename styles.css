@@ -1,0 +1,38 @@
+body {
+    background-color: aquamarine;
+    color: slateblue;
+}
+
+h1 {
+    font-size: 48px;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2, h3 {
+    font-size: 32px;
+    text-align: center;
+}
+
+ls {
+    font-size: 24px;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+div {
+    text-align: center;
+}
+
+ul, ol {
+    display: inline-block;
+}
